@@ -1,6 +1,7 @@
 # retoPageConsulting
 Reto técnico, aplicación angular de bebidas.
 Ejecucion
+Ejecutar npm i para restaurar los node_modules
 Ejecutar el Docker File, con nombre de imagen drinks_app_i
 Se ha desarrollado la mayor parte del reto
 No se presentan bugs
